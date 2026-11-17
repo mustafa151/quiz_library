@@ -1,0 +1,18 @@
+
+{
+  "schema_version": 1,
+  "library_name": "مكتبة المسابقات",
+  "updated_at": "2026-11-17",
+  "quizzes": [
+    {
+      "source_id": "general_knowledge_001",
+      "name": "مسابقة المعلومات العامة",
+      "description": "اختبر معلوماتك في الجغرافيا والعلوم والتاريخ والثقافة العامة.",
+      "category": "ثقافة عامة",
+      "version": 1,
+      "question_count": 5,
+      "file": "quizzes/general_knowledge_001.json",
+      "image": null
+    }
+  ]
+}

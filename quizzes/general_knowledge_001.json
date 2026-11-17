@@ -1,0 +1,88 @@
+
+{
+  "schema_version": 1,
+  "quiz": {
+    "source_id": "general_knowledge_001",
+    "version": 1,
+    "name": "مسابقة المعلومات العامة",
+    "description": "اختبر معلوماتك في مجموعة متنوعة من المجالات.",
+    "category": "ثقافة عامة",
+    "questions": [
+      {
+        "source_id": "question_001",
+        "type": "choice",
+        "text": "ما عاصمة مصر؟",
+        "category": "جغرافيا",
+        "options": [
+          "القاهرة",
+          "الإسكندرية",
+          "الأقصر",
+          "أسوان"
+        ],
+        "correct": 0,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_002",
+        "type": "choice",
+        "text": "كم عدد أيام السنة العادية؟",
+        "category": "معلومات عامة",
+        "options": [
+          "360",
+          "365",
+          "366",
+          "370"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_003",
+        "type": "choice",
+        "text": "ما أكبر كوكب في المجموعة الشمسية؟",
+        "category": "علوم",
+        "options": [
+          "الأرض",
+          "المريخ",
+          "المشتري",
+          "الزهرة"
+        ],
+        "correct": 2,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_004",
+        "type": "choice",
+        "text": "في أي قارة تقع دولة البرازيل؟",
+        "category": "جغرافيا",
+        "options": [
+          "آسيا",
+          "أفريقيا",
+          "أوروبا",
+          "أمريكا الجنوبية"
+        ],
+        "correct": 3,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_005",
+        "type": "choice",
+        "text": "ما العنصر الكيميائي الذي رمزه O؟",
+        "category": "علوم",
+        "options": [
+          "الذهب",
+          "الأكسجين",
+          "الحديد",
+          "الفضة"
+        ],
+        "correct": 1,
+        "points": 200,
+        "image": null
+      }
+    ]
+  }
+}
