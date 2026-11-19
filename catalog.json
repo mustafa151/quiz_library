@@ -33,6 +33,16 @@
       "question_count": 100,
       "file": "quizzes/islamic_quiz_001.json",
       "image": null
+    },
+    {
+      "source_id": "kids_iq_quiz_001",
+      "name": "امسابقة اختبار الذكاء للأطفال والناشئة",
+      "description": "مسابقة ممتعة وتفاعلية لتنمية مهارات التفكير المنطقي، الأنماط، الرياضيات الذهنية، والاستنتاج للفئة العمرية من 8 إلى 15 سنة.",
+      "category": "اختبار ذكاء",
+      "version": 1,
+      "question_count": 50,
+      "file": "quizzes/kids_iq_quiz_001.json",
+      "image": null
     }
   ]
 }
