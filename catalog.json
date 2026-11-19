@@ -23,6 +23,16 @@
       "question_count": 2,
       "file": "quizzes/submission_1795038687261_65103251.json",
       "image": null
+    },
+    {
+      "source_id": "islamic_quiz_001",
+      "name": "المسابقة الإسلامية الشاملة",
+      "description": "اختبر معلوماتك الإسلامية في القرآن الكريم، السيرة النبوية، قصص الأنبياء، الصحابة، والفقه والعبادات.",
+      "category": "إسلاميات",
+      "version": 1,
+      "question_count": 100,
+      "file": "quizzes/islamic_quiz_001.json",
+      "image": null
     }
   ]
 }
