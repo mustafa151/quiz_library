@@ -1,0 +1,762 @@
+{
+  "schema_version": 1,
+  "quiz": {
+    "source_id": "kids_iq_quiz_001",
+    "version": 1,
+    "name": "مسابقة اختبار الذكاء للأطفال والناشئة",
+    "description": "مسابقة ممتعة وتفاعلية لتنمية مهارات التفكير المنطقي، الأنماط، الرياضيات الذهنية، والاستنتاج للفئة العمرية من 8 إلى 15 سنة.",
+    "category": "اختبار ذكاء",
+    "questions": [
+      {
+        "source_id": "question_001",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 2، 4، 6، 8، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_002",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 5، 10، 15، 20، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "22",
+          "24",
+          "25",
+          "30"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_003",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 100، 90، 80، 70، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "65",
+          "60",
+          "50",
+          "75"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_004",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 1، 2، 4، 8، 16، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "20",
+          "24",
+          "30",
+          "32"
+        ],
+        "correct": 3,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_005",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 3، 6، 9، 12، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "14",
+          "15",
+          "16",
+          "18"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_006",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 1، 3، 6، 10، 15، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "18",
+          "20",
+          "21",
+          "25"
+        ],
+        "correct": 2,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_007",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 50، 45، 40، 35، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "25",
+          "30",
+          "32",
+          "20"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_008",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 2، 6، 18، 54، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "108",
+          "162",
+          "72",
+          "150"
+        ],
+        "correct": 1,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_009",
+        "type": "choice",
+        "text": "أكمل النمط التالي: 1، 4، 9، 16، 25، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "30",
+          "35",
+          "36",
+          "40"
+        ],
+        "correct": 2,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_010",
+        "type": "choice",
+        "text": "ما الحرف التالي في التسلسل: أ، ت، ج، خ، ...؟",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "ث",
+          "ح",
+          "د",
+          "ذ"
+        ],
+        "correct": 2,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_011",
+        "type": "choice",
+        "text": "أكمل النمط: 11، 22، 33، 44، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "50",
+          "55",
+          "66",
+          "45"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_012",
+        "type": "choice",
+        "text": "أكمل النمط: 80، 40، 20، 10، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "8",
+          "5",
+          "2",
+          "0"
+        ],
+        "correct": 1,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_013",
+        "type": "choice",
+        "text": "أكمل النمط: 1، 1، 2، 3، 5، 8، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "11",
+          "12",
+          "13",
+          "15"
+        ],
+        "correct": 2,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_014",
+        "type": "choice",
+        "text": "أكمل النمط: 10، 13، 16، 19، ...",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "20",
+          "21",
+          "22",
+          "23"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_015",
+        "type": "choice",
+        "text": "ما الرقم الناقص: 7، 14، ...، 28، 35؟",
+        "category": "أنماط ومتسلسلات",
+        "options": [
+          "18",
+          "20",
+          "21",
+          "24"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_016",
+        "type": "choice",
+        "text": "ما الشيء الذي يمشي بلا أرجل ويبكي بلا عيون؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "الرياح",
+          "السحاب",
+          "النهر",
+          "القطار"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_017",
+        "type": "choice",
+        "text": "أيهما أثقل: كيلو من الحديد أم كيلو من القطن؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "كيلو الحديد",
+          "كيلو القطن",
+          "متساويان في الوزن",
+          "يعتمد على الحجم"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_018",
+        "type": "choice",
+        "text": "إذا سبقت المتسابق صاحب المركز الثاني في سباق، فما هو مركزك الآن؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "الأول",
+          "الثاني",
+          "الثالث",
+          "الرابع"
+        ],
+        "correct": 1,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_019",
+        "type": "choice",
+        "text": "ما الشيء الذي كلما أخذت منه كبر؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "البالون",
+          "الحفرة",
+          "العمر",
+          "الشجرة"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_020",
+        "type": "choice",
+        "text": "لدى أحمد 4 إخوة، ولكل أخ من إخوته أخت واحدة، فكم عدد أولاد وبنات هذه العائلة؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "5",
+          "6",
+          "8",
+          "9"
+        ],
+        "correct": 1,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_021",
+        "type": "choice",
+        "text": "ما الكلمة المختلفة عن باقي الكلمات التالية؟",
+        "category": "تفكير لفظي",
+        "options": [
+          "تفاحة",
+          "موزة",
+          "جزرة",
+          "برتقالة"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_022",
+        "type": "choice",
+        "text": "ما الكلمة المختلفة عن باقي الكلمات التالية؟",
+        "category": "تفكير لفظي",
+        "options": [
+          "مثلث",
+          "مربع",
+          "دائرة",
+          "مكعب"
+        ],
+        "correct": 3,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_023",
+        "type": "choice",
+        "text": "ما الكلمة المختلفة عن باقي الكلمات التالية؟",
+        "category": "تفكير لفظي",
+        "options": [
+          "أسد",
+          "نمر",
+          "فهد",
+          "حوت"
+        ],
+        "correct": 3,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_024",
+        "type": "choice",
+        "text": "إذا كانت كلمة (كتاب) تعني (قراءة)، فإن كلمة (سرير) تعني:",
+        "category": "تفكير لفظي",
+        "options": [
+          "أكل",
+          "نوم",
+          "جري",
+          "سباحة"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_025",
+        "type": "choice",
+        "text": "أكمل العلاقة: الأصابع لليد مثل الأسنان لـ ...",
+        "category": "تفكير لفظي",
+        "options": [
+          "العين",
+          "الفم",
+          "الأذن",
+          "الأنف"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_026",
+        "type": "choice",
+        "text": "أكمل العلاقة: الطبيب للمستشفى مثل المعلم لـ ...",
+        "category": "تفكير لفظي",
+        "options": [
+          "الحديقة",
+          "المدرسة",
+          "المصنع",
+          "المطار"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_027",
+        "type": "choice",
+        "text": "أكمل العلاقة: الليل للنهار مثل الصيف لـ ...",
+        "category": "تفكير لفظي",
+        "options": [
+          "الربيع",
+          "الخريف",
+          "الشتاء",
+          "الشمس"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_028",
+        "type": "choice",
+        "text": "دخلت غرفة مظلمة ومعك عود ثقاب واحد، وفيها شمعة ومصباح زيت ومدفأة، ماذا تشعل أولاً؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "الشمعة",
+          "مصباح الزيت",
+          "المدفأة",
+          "عود الثقاب"
+        ],
+        "correct": 3,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_029",
+        "type": "choice",
+        "text": "ما الشيء الذي له أسنان ولا يعض؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "المنشار",
+          "المشط",
+          "الشوكة",
+          "جميع ما سبق"
+        ],
+        "correct": 3,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_030",
+        "type": "choice",
+        "text": "شيء يكتب ولا يقرأ، فما هو؟",
+        "category": "ألغاز منطقية",
+        "options": [
+          "الكتاب",
+          "القلم",
+          "السبورة",
+          "الدفتر"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_031",
+        "type": "choice",
+        "text": "إذا كان معك 3 تفاحات وأخذت منها تفاحتين، فكم تفاحة معك الآن؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "تفاحة واحدة",
+          "تفاحتان",
+          "3 تفاحات",
+          "5 تفاحات"
+        ],
+        "correct": 1,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_032",
+        "type": "choice",
+        "text": "كم يساوي نصف العدد 50 مضافاً إليه 10؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "25",
+          "30",
+          "35",
+          "60"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_033",
+        "type": "choice",
+        "text": "إذا كان عمر سارة 10 سنوات وعمر أخيها نصف عمرها، فعندما يصبح عمر سارة 20 سنة كم سيكون عمر أخيها؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "10 سنوات",
+          "15 سنة",
+          "20 سنة",
+          "5 سنوات"
+        ],
+        "correct": 1,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_034",
+        "type": "choice",
+        "text": "كم عدد الدقائق في ساعتين ونصف؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "120 دقيقة",
+          "130 دقيقة",
+          "150 دقيقة",
+          "180 دقيقة"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_035",
+        "type": "choice",
+        "text": "ما ناتج: (5 × 4) + (10 ÷ 2)؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "15",
+          "20",
+          "25",
+          "30"
+        ],
+        "correct": 2,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_036",
+        "type": "choice",
+        "text": "إذا اشترى خالد 3 أقلام بسعر 4 جنيهات للقلم الواحد، ودفع 20 جنيهاً، فكم سيتبقى معه؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "6 جنيهات",
+          "8 جنيهات",
+          "10 جنيهات",
+          "12 جنيهاً"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_037",
+        "type": "choice",
+        "text": "كم عدد الأرجل لـ 4 قطط و3 عصافير مجتمعة؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "14 رجلاً",
+          "18 رجلاً",
+          "22 رجلاً",
+          "24 رجلاً"
+        ],
+        "correct": 2,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_038",
+        "type": "choice",
+        "text": "ما العدد الذي إذا ضربته في نفسه كان الناتج 49؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_039",
+        "type": "choice",
+        "text": "إذا كان اليوم هو الإثنين، فماذا سيكون اليوم بعد 8 أيام؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "الإثنين",
+          "الثلاثاء",
+          "الأربعاء",
+          "الخميس"
+        ],
+        "correct": 1,
+        "points": 150,
+        "image": null
+      },
+      {
+        "source_id": "question_040",
+        "type": "choice",
+        "text": "حافلة فيها 15 راكباً، نزل منهم 4 وصعد 6، فكم راكباً في الحافلة الآن؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "13 راكباً",
+          "15 راكباً",
+          "17 راكباً",
+          "19 راكباً"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_041",
+        "type": "choice",
+        "text": "ما الرقم الذي يساوي ربع العدد 80؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "10",
+          "15",
+          "20",
+          "40"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_042",
+        "type": "choice",
+        "text": "إذا كان 3 عمال يبنون 3 جدران في 3 أيام، فكم يوماً يحتاج عامل واحد لبناء جدار واحد؟",
+        "category": "رياضيات ذهنية",
+        "options": [
+          "يوم واحد",
+          "3 أيام",
+          "6 أيام",
+          "9 أيام"
+        ],
+        "correct": 1,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_043",
+        "type": "choice",
+        "text": "كم عدد أضلاع الشكل السداسي؟",
+        "category": "تفكير مكاني",
+        "options": [
+          "4 أضلاع",
+          "5 أضلاع",
+          "6 أضلاع",
+          "8 أضلاع"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_044",
+        "type": "choice",
+        "text": "كم وجهاً للمكعب؟",
+        "category": "تفكير مكاني",
+        "options": [
+          "4 أوجه",
+          "6 أوجه",
+          "8 أوجه",
+          "12 وجهاً"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_045",
+        "type": "choice",
+        "text": "إذا وقفت متجهاً نحو الشمال ثم استدرت إلى اليمين، فإلى أي جهة تنظر الآن؟",
+        "category": "تفكير مكاني",
+        "options": [
+          "الجنوب",
+          "الشرق",
+          "الغرب",
+          "الشمال"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_046",
+        "type": "choice",
+        "text": "إذا كان علي أطول من سامي، وسامي أطول من كريم، فمن هو الأقصر بينهم؟",
+        "category": "استنتاج منطقي",
+        "options": [
+          "علي",
+          "سامي",
+          "كريم",
+          "جميعهم بنفس الطول"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_047",
+        "type": "choice",
+        "text": "في صندوق مغلق يوجد 5 كرات حمراء و5 كرات زرقاء، ما أقل عدد من الكرات يجب سحبه دون النظر لضمان الحصول على كرتين من نفس اللون؟",
+        "category": "استنتاج منطقي",
+        "options": [
+          "كرتان",
+          "3 كرات",
+          "5 كرات",
+          "6 كرات"
+        ],
+        "correct": 1,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_048",
+        "type": "choice",
+        "text": "إذا كانت الساعة الآن 3:15، فكم تكون الساعة إذا نظرنا إليها في المرآة؟",
+        "category": "تفكير مكاني",
+        "options": [
+          "3:45",
+          "8:45",
+          "9:15",
+          "9:45"
+        ],
+        "correct": 1,
+        "points": 200,
+        "image": null
+      },
+      {
+        "source_id": "question_049",
+        "type": "choice",
+        "text": "كم زاوية قائمة توجد في المربع الواحد؟",
+        "category": "تفكير مكاني",
+        "options": [
+          "زاويتان",
+          "3 زوايا",
+          "4 زوايا",
+          "5 زوايا"
+        ],
+        "correct": 2,
+        "points": 100,
+        "image": null
+      },
+      {
+        "source_id": "question_050",
+        "type": "choice",
+        "text": "جميع الطيور لها أجنحة، والصقر طائر، إذن:",
+        "category": "استنتاج منطقي",
+        "options": [
+          "الصقر لا يطير",
+          "الصقر له أجنحة",
+          "جميع الطيور صقور",
+          "الصقر يعيش في الماء"
+        ],
+        "correct": 1,
+        "points": 100,
+        "image": null
+      }
+    ]
+  }
+}
